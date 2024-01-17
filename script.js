@@ -3,7 +3,6 @@
 let secretNumber = Math.trunc(Math.random() * 20) + 1;
 let score = 5;
 let highscoreCount = 0;
- console.log(secretNumber);
 
  
 const number = document.querySelector('.number');
